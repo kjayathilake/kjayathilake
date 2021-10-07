@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an iOS app
+- 🌱 I’m currently learning SwiftUI & Combine
+- 👯 I’m looking to collaborate on iOS apps
+- 📫 How to reach me: krishanthajayathilake@gmail.com
+
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=kjayathilake&show_icons=false&hide_border=false&theme=dracula" />
+
 <!--
 **kjayathilake/kjayathilake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
